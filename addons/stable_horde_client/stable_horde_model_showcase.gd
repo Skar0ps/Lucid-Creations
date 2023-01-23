@@ -2,6 +2,7 @@ class_name StableHordeModelShowcase
 extends HTTPRequest
 
 signal showcase_retrieved(img, model_name)
+signal request_failed(error_msg)
 
 var model_reference := {}
 var texture: ImageTexture
