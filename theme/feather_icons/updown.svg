@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   viewBox="0 0 16 16"
+   width="32"
+   fill="#ffffff"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="updown.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     d="M 8.0040317,3.185097 10.560131,5.741196 11.69707,4.604256 8.0040317,0.90315377 4.3029294,4.604256 5.4479329,5.741196 Z"
+     id="path4"
+     style="stroke:#ffffff;stroke-width:0.806341;stroke-linejoin:round;stroke-opacity:1"
+     sodipodi:nodetypes="ccccccc" />
+  <path
+     d="M 7.9959683,13.006675 5.4398692,10.450576 4.3029296,11.587517 7.9959681,15.288619 11.697071,11.587517 10.552067,10.450576 Z"
+     style="stroke:#ffffff;stroke-width:0.403169;stroke-linejoin:round;stroke-opacity:1"
+     id="path937" />
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="21.154278"
+     inkscape:cx="10.919777"
+     inkscape:cy="14.63061"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     units="in" />
+</svg>

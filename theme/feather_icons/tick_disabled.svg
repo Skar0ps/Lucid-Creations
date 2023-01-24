@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tick_disabled.svg"
+   id="svg6"
+   version="1.1"
+   fill="#ffffff"
+   width="32"
+   viewBox="0 0 16 16"
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="g1945"
+     transform="matrix(1.2377342,0,0,1.2377342,-1.9018736,-1.9018736)">
+    <path
+       sodipodi:nodetypes="ccc"
+       style="fill:#87286a;fill-opacity:1;stroke-width:0.631579"
+       id="path4"
+       d="m 7.9944603,2.0000001 c -6.9521856,0.042989 -3.8911226,6.0787344 0,11.9999999 3.8977627,-5.7896274 6.9736467,-12.0010074 0,-11.9999999 z" />
+    <path
+       sodipodi:nodetypes="zcz"
+       style="fill:#452459;fill-opacity:1;stroke-width:0.452759"
+       id="path1715"
+       d="m 7.9960288,4.0645322 c -2.6898945,0 -2.7894243,4.357655 0,8.6024248 2.7941842,-4.1504026 2.6898942,-8.6024248 0,-8.6024248 z" />
+  </g>
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg6"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="15.763605"
+     inkscape:cx="6.510259"
+     inkscape:zoom="13.670731"
+     showgrid="false"
+     id="namedview8"
+     inkscape:window-height="991"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:pagecheckerboard="0" />
+</svg>

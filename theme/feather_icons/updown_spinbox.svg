@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   viewBox="0 0 12 12"
+   width="24"
+   fill="#ffffff"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="updown_spinbox.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     id="g905"
+     transform="translate(0,-1.1664999)">
+    <path
+       d="M 6.0028818,4.0857712 7.8299474,5.9128364 8.6426163,5.100167 6.0028818,2.4546688 3.3573836,5.100167 4.1758167,5.9128364 Z"
+       id="path4"
+       style="stroke:#ffffff;stroke-width:0.576362;stroke-linejoin:round;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       d="M 5.9971182,10.391313 4.1700529,8.564248 3.3573837,9.3769177 5.9971181,12.022416 8.6426164,9.3769177 7.8241836,8.564248 Z"
+       style="stroke:#ffffff;stroke-width:0.28818;stroke-linejoin:round;stroke-opacity:1"
+       id="path937" />
+  </g>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.577139"
+     inkscape:cx="4.5380892"
+     inkscape:cy="15.079692"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     units="in" />
+</svg>
