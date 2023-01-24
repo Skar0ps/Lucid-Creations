@@ -4,7 +4,7 @@ Generate images using the Stable Diffusion AI. This godot program is using the [
 
 You can download executables or try a demo version on [itch.io](https://dbzer0.itch.io/lucid-creations)
 
-![Lucid Creations Preview image](screenshot.png "Stable Horde Client Screenshot 1") 
+![Lucid Creations Preview image](screenshot_pink.png "Stable Horde Client Screenshot 1") 
 
 # API Key
 
